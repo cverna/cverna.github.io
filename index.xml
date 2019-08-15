@@ -7,9 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 15 Aug 2019 20:25:58 +0200</lastBuildDate>
     
 	<atom:link href="https://cverna.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fedora Flock 2019</title>
+      <link>https://cverna.github.io/posts/fedora-flock-2019/</link>
+      <pubDate>Thu, 15 Aug 2019 20:25:58 +0200</pubDate>
+      
+      <guid>https://cverna.github.io/posts/fedora-flock-2019/</guid>
+      <description>Flock 2019 Every year around the beginning of August, the Fedora Community gather at the Flock conference. This year the conference was held in Budapest and I was lucky enough to be able to attend the first 3 days. The following are some of the highlights of the conference and some of my thoughts.
+Where are we going as a Community The first day opened with Matthew Miller the Fedora Project Leader State of Fedora.</description>
+    </item>
     
   </channel>
 </rss>
