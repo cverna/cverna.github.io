@@ -2,7 +2,7 @@
   <channel>
       <title>Clément Verna on Clément Verna </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/</link>
+    <link>https://cverna.github.io/</link>
     <language>en-us</language>
     
     
@@ -10,19 +10,19 @@
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://cverna.github.io/about/</link>
       <pubDate>Mon, 08 Mar 2021 15:09:18 CET</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://cverna.github.io/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting with Why</title>
-      <link>http://localhost:1313/post/starting-with-why/</link>
+      <link>https://cverna.github.io/post/starting-with-why/</link>
       <pubDate>Mon, 08 Mar 2021 10:56:45 CET</pubDate>
       
-      <guid>http://localhost:1313/post/starting-with-why/</guid>
+      <guid>https://cverna.github.io/post/starting-with-why/</guid>
       <description>This post was inspired by Colin Walter&amp;rsquo;s blog post on why he works on OpenShift and Fedora/RHEL go and check it out 😄.
 Understanding our &amp;ldquo;Why&amp;rdquo; is usually a process that a team will go through. Why, as a team, are we together? What problems are we solving? How are we solvings these problems? There is value in asking ourselves why we show up to work every weekday and what motivates us.</description>
     </item>
