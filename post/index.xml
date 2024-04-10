@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Clément Verna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 11:03:09 +0100</lastBuildDate><atom:link href="https://cverna.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 20:34:13 +0200</lastBuildDate><atom:link href="https://cverna.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Team Performance</title>
+      <link>https://cverna.github.io/post/teamperformance/</link>
+      <pubDate>Wed, 03 Apr 2024 20:34:13 +0200</pubDate>
+      
+      <guid>https://cverna.github.io/post/teamperformance/</guid>
+      <description>&amp;ldquo;How do I know if my team is performing well?&amp;rdquo; This is a question that every manager, and every team member, should ask themselves. A better question could be, &amp;ldquo;How do I measure my team&amp;rsquo;s performance?&amp;rdquo; or even better, &amp;ldquo;What is team performance?&amp;rdquo;
+Answering these questions is not as simple as it seems. Team performance is a large domain with many models, metrics, frameworks, and books available on the topic. I found Troy Magennis&amp;rsquo; model of 6 competing forces to be a great starting point for examining team performance.</description>
+    </item>
+    
     <item>
       <title>Agile fatigue, where has the fun gone?</title>
       <link>https://cverna.github.io/post/agile_fatigue/</link>
